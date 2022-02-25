@@ -20,7 +20,7 @@ layout = [
 ]
 
 # Building window.
-window = simpleGUI.Window("Delimiter Conversion", layout, size=(700, 100))
+window = simpleGUI.Window("Delimiter Conversion", layout, size=(875, 100))
 
 # Application run.
 while True:
